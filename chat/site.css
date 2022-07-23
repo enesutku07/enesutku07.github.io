@@ -1,0 +1,121 @@
+BODY 
+	{
+	COLOR: #cccccc; 
+	FONT-SIZE: 11px; 
+	scrollbar-face-color: #efefef; 
+	scrollbar-shadow-color: #999999; 
+	scrollbar-highlight-color: #999999; 
+	scrollbar-3dlight-color: #efefef; 
+	scrollbar-darkshadow-color: white; 
+	scrollbar-track-color: white; scrollbar-arrow-color: #99999;
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	}
+TABLE 
+	{
+	COLOR: #333333; 
+	FONT-FAMILY: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+	FONT-SIZE: 11px; 
+	TEXT-DECORATION: none
+	}
+.clsCursor
+{
+	cursor: hand;
+}
+A 
+	{
+	COLOR: #3366FF;
+	TEXT-DECORATION: none;
+	font-weight: bold;
+
+	}
+A:hover 
+	{
+	COLOR: #FF3300; 
+	TEXT-DECORATION: none;
+	}
+.sitetitle 
+	{
+	FONT-SIZE: 24px;
+	TEXT-DECORATION: none;
+	color: #666666;
+
+	}
+.menutable a
+	{
+	text-decoration: none;
+	}
+.topmenu a
+	{
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight:bold;
+	}
+.topmenu a:hover
+	{
+	text-decoration: none;
+	color: #FF9900;
+	font-weight:bold;
+	}
+
+.hl a 
+	{
+	width:100%;
+	background-color:white;
+	font-weight:bold;
+	color:black;
+	text-decoration:none
+	}
+.hl a:hover 
+	{
+	width:100%;
+	background-color:#3399FF;
+	color:white
+	}
+.field 
+	{
+	background:#efefef;
+	color:#666666;
+	font-size:11px;
+	font-family:"Trebuchet MS", Verdana, Arial, Helvetica;
+	border-top: 1 solid #999999;
+	border-bottom: 1 solid #999999;
+	border-left: 1 solid #999999;
+	border-right: 1 solid #999999;
+	font-weight: bold;
+
+	}
+.field100 
+	{
+	background:#efefef;
+	color:#666666;
+	font-size:11px;
+	font-family:"Trebuchet MS", Verdana, Arial, Helvetica;
+	border-top: 1 solid #999999;
+	border-bottom: 1 solid #999999;
+	border-left: 1 solid #999999;
+	border-right: 1 solid #999999;
+	width: 100%;
+	font-weight: bold;
+
+	}
+.button 
+	{
+	background:#efefef;
+	color:#666666;
+	font-size:10px;
+	font-family:"Trebuchet MS", Verdana, Arial, Helvetica;
+	border-top: 1 solid #FFFFFF;
+	border-bottom: 1 solid #999999;
+	border-left: 1 solid #FFFFFF;
+	border-right: 1 solid #999999;
+	font-weight: bold;
+
+	}
+b {  font-weight: bold; color: #666666; text-decoration: none}
+strong {
+	color: #666666;
+	text-decoration: none;
+}
+li {
+	list-style-image: url(http://www.arahnoware.com/images/gray180.gif);
+}

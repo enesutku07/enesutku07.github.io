@@ -1,0 +1,53 @@
+##################################################################################
+##################################################################################
+##                                                                              ##
+## HAZIR SÝTE V. 2.2 by AsLaN & mücahitt                                        ##
+## ---------------------------------------------------------------------------- ##
+## Hazýrlayan: Murat Aslan Levent                                               ##
+## Güncelleyen: Mücahit Tohum                                                   ##
+## E-mail: lil.mucox@gmail.com                                                  ##                                            ##
+## Web: www.amasyauniversitesi.net / MSN: thunderstroke2005@hotmail.com         ##
+## ---------------------------------------------------------------------------- ##
+##################################################################################
+##################################################################################
+
+Merhaba arkadaþlar
+
+ilk baþta burdan Murat aslan Levent'e ve Osman ÇELÝK'e çok teþekkür ederim.
+Umarým kýzmaz ve darýlmazsýn murat.Ben asp'yi yeni öðrenen biriyim.kendi çabalarýmla araþtýrmalarýmla
+baþardýðým ve bu kadar kýsa sürede bu kadar þeyi öðrenmemde bana destek olduðun için çok teþekkür ederim.
+
+açýklamalar ;
+
+- Öncelikle Ziyaretçi Defterinin kodlarýný gizleyerek yok ettim.
+- yönetim paneline mesaj oku sekmesi ekledim.sekmenin içinde okuma ve silme bölümü ekledim.
+- ayrýca iletiþim sekmesi yaptým menüleri azalttým.
+- Ýdare giriþinde Sql Ýnjection açýðý vardý ufak bi filtre ile bu açýk da kapatýldý.
+- Ziyaretçi Defterine ne olur ne olmaz diye güvenlik kodu ekledim.
+- Mouse artýk klasik mouse deðil imleç deðiþtirildi.
+- Logo ve Banner sorunu çözüldü.
+- CHAT eklendi basit bir chat ama bulunsun iyidir..:)
+- Google Arama Bloðu eklendi.
+- Durum çubuðunda mesajlar var onu sayfa.asp de <!--// DURUM ÇUBUÐU ÝÇÝN BURAYI EDÝTLÝYORUZ!!! kýsmýndan kendinize göre düzeltin.
+- Son olarak extra blok yaptým onu da yine sayfa.asp den <!-- EXTRA BLOK BAÞLAR !!! --> kýsmýndan HTML kullanarak deðiþtirebilirsiniz
+  þimdilik bi saat koydum ben... Bu kadar!
+
+ARKADAÞLAR SÝTENÝN ÝSMÝNÝ DEÐÝÞTÝRMEDÝM ÇÜNKÜ DEÐÝÞTERECEK KAYDA DEÐER BÝRÞEY YAPMADIM
+SÝZ DE ÝSTEDÝÐÝNÝZ GÝBÝ GELÝÞTÝREBÝLÝRSÝNÝZ SÝTEYÝ.
+HAZIRSÝTE V. 2.2 in KÖTÜYE KULLANIMINDAN DOÐACAK SORUNLARDAN BEN SORUMLU OLMAM
+VALLA BEN KARIÞMAM YANÝ..:)
+
+KURULUM ÝÇÝN, ZATEN BÝLÝYORSUNUZDUR AMA TEKRAR EDELÝM,
+DOSYALARI HOSTUNUZA ATIN VERÝTABANI YOLLARINI DEÐÝÞTÝRÝN(sayfa.asp ve girisyap.asp) TAMAMDIR. GÜNCELLEME ÝÇÝN ASP DOSYALARINI ATIP
+VERÝTABANI YOLLARINI DEÐÝÞTÝRÝN...
+
+yönetici adý: admin
+	 þifre: admin
+
+
+AKLINIZA TAKILAN BÝR KONU OLURSA BANA MAÝL YOLUYLA, SÝTELERÝM YOLUYLA, MSN YOLUYLA
+KARA YOLUYLA HAVA YOLUYLA NASIL ULAÞIRSANIZ ULAÞIN ELÝMDEN GELDÝÐÝNCE YARDIM EDERÝM...
+
+SAYGILAR ÝYÝ ÇALIÞMALAR....
+
+mucahitt 10/07/2007
